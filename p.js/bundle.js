@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=Math.PI*Math.sqrt(2);console.log({name:"name1",age:8}),console.log(o)})();
